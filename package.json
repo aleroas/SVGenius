@@ -1,0 +1,25 @@
+{
+  "name": "SVGenius",
+  "version": "1.0.0",
+  "description": "Generates a logo and saves it as an SVG file based on user input.",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.9",
+    "babel-jest": "^27.4.5",
+    "jest": "^27.4.7"
+  }
+}
+
+
+
+
